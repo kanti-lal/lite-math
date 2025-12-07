@@ -13,15 +13,19 @@ A comprehensive, production-ready TypeScript NPM package providing 40+ mathemati
 
 ## Installation
 
-\`\`\`bash
+```bash
 npm install lite-math
-\`\`\`
+# or
+yarn add lite-math
+# or
+pnpm add lite-math
+```
 
 ## Usage
 
 ### ES Module
 
-\`\`\`typescript
+```typescript
 import { add, subtract, factorial, primeCheck } from 'lite-math'
 
 console.log(add(10, 20))              // 30
