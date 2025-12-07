@@ -1,6 +1,6 @@
 {
   "name": "lite-math",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A comprehensive TypeScript library of 40+ mathematical operations including arithmetic, advanced math, statistics, random numbers, algebra, and unit conversions.",
   "type": "module",
   "main": "./dist/index.js",
